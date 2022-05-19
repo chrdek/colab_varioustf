@@ -1,4 +1,5 @@
-# TensorFlow Colabs usage samples (online sources)
+# TensorFlow Colabs usage samples
+<br/>
 Several tensorflow colab notebooks that I found  from various sources over the internet [tutorials, examples, etc]
 
 <br/>
