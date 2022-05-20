@@ -10,3 +10,4 @@ The listing of the Keras, Tensorflow and Image Processing Colabs Includes:
 - [X] Data Science Image Processing
 - [X] Data Frame Processing
 - [X] Image Effects
+- [X] Generative Imaging
